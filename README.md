@@ -32,3 +32,49 @@ Traditional utility systems are plagued by:
 - **Web3 Integration** - User-friendly dApp interface
 
 ## 🏗 Architecture
+
+
+## 📋 Current Status
+- ✅ **Concept & Architecture** - Fully designed
+- ✅ **Hedera Integration Strategy** - HTS + HCS implementation planned
+- 🔄 **Development** - In progress for Hedera Africa Hackathon
+- 🔄 **UI/UX Design** - Initial wireframes completed
+
+## 🚀 Future Development
+- Smart contract implementation for automated resolutions
+- Frontend dApp development
+- Pilot program with utility providers
+- Mobile application development
+- AI integration for complaint analysis
+
+## 👥 Team
+
+### Amanar Wuta Leadership & Development Team
+
+**RABIU MUSA**  
+*CEO*  
+- Executive leadership and strategic vision  
+- Guides project toward market readiness and utility provider adoption
+
+**Bar. Abdulhadee Isah Ibraheem**  
+*Blockchain Developer & DLT Researcher*  
+- Leads technical implementation on Hedera Hashgraph  
+- Focuses on smart contract logic, tokenization (HTS), and secure data logging (HCS)
+
+**Engr. Ibrahim Aliyu**  
+*AI Researcher & Web3 Developer*  
+- Specializes in front-end development and potential AI integration  
+- Ensures robust and user-friendly web3 experience  
+- Explores AI for complaint analysis and predictive maintenance
+
+## 🏆 Hackathon
+This project is part of the **Hedera Africa Hackathon 2024** in the **DLT for Operations Track**.
+
+## 📞 Contact
+- **GitHub:** [Your GitHub Profile]
+- **Email:** [Your Team Email]
+- **Hackathon Project Page:** [Link to your DoraHacks project page]
+
+---
+
+*Building trust in utility services, one immutable transaction at a time.*
